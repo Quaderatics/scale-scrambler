@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 27,
+    "description": "Randomizes each player's scale and other attributes every few minutes"
+  }
+}
